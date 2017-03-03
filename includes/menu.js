@@ -11,4 +11,6 @@ $(document).ready(function() {
     nbsp : false
   });
 
+  $('li').has('ul').find('> a').addClass('indicator');
+
 });
