@@ -21,7 +21,7 @@ aside { width: 200px; float: right; margin: 0px 0px 10px 40px; padding: 0px 0px 
 aside p { margin: 0px; }
 footer { border-top: 1px solid #ddd; margin: 0px; padding: 10px 25px 10px 10px; color: rgba(255,255,255,.4); }
 
-.clear { clear: both; line-height: 1px; }
+.clear-all { clear: both; line-height: 1px; }
 
 /* Dropdown Menus */
 .nav_menu { position: relative; z-index: 1000; margin: 0px; padding: 0px; }
